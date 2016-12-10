@@ -9,7 +9,7 @@ import java.sql.Statement;
 import java.util.ArrayList;
 
 public class DataRepository {
-	private String dbUrl = "jdbc:oracle:thin:COMP214_F16_006_N_1/123456@oracle1.centennialcollege.ca:1521:SQLD";
+	private String dbUrl = "jdbc:connection_string_here";
 
 	public DataRepository() {
 		try {
